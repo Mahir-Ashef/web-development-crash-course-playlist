@@ -124,5 +124,10 @@ The difference between the `<span>` tag and the `<div>` tag is that the `<span>`
 
 
 ```
+***
 
 ### 10. HTML – LAYOUTS
+Web page layout is an essential part of creating well-formed, well-structured, semantically-rich websites.
+
+#### HTML Layout Using Tables:
+Tables are the simplest method for creating layout in HTML. The following HTML layout is achieved using a table with 3 rows and 2 columns — the first and last row spans both columns using the colspan attribute:
