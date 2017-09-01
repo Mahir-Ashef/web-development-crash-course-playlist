@@ -84,4 +84,4 @@ for (var i = 0; i < people.length; i++) {
 ---
 ### Danger of Array.length:
 * "length": gives the number of items in an array.
-* 
+* does not work with "Associative Arrays" (arrays with indexes)
