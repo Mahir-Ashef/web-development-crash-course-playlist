@@ -1,5 +1,5 @@
-# JavaScript -3
-## 10. FUNCTIONS IN-DEPTH:
+# JavaScript -4
+## 11. FUNCTIONS IN-DEPTH:
 ---
 ### Callback Functions:
 In JavaScript functions are actually first-class objects. just like you can pass objects into functions as an argument, you can also pass other functions into functions as arguments and execute at some point.
