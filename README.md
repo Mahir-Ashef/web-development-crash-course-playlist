@@ -34,3 +34,76 @@ Almost none. But, any prior experience of programming like **C/C++** is apprecia
   * [MongoDB](https://www.mongodb.com/download-center)
 
 ***
+
+## Course Syllabus:
+### 1. GIT
+  > [Day 1: git,  Installation git, First Git, Commits, Undoing, Branching, Merging](https://github.com/Saif-Uz-Zaman/web-development-crash-course-playlist/tree/master/day_01_git)
+
+  > [Day 2: Github](https://github.com/Saif-Uz-Zaman/web-development-crash-course-playlist/tree/master/day_02_github)
+
+### 2. HTML
+  > Day 3: Static Server (Environment Setup)
+
+  > Day 4: Basic HTML Document, HTML – BASIC TAGS, HTML – COMMENTS, HTML – IMAGES
+
+  > Day 5: HTML – TABLES, HTML – LISTS, HTML – LINK
+
+  > Day 6: HTML – IFRAMES, HTML – BLOCKS, HTML – LAYOUTS
+
+  > Day 7: HTML – FORMS, HTML – STYLE SHEET, HTML JAVASCRIPT
+
+### 3. CSS
+
+  > Day 8:
+
+  > Day 9:
+
+  > Day 10:
+
+  > Day 11:
+
+### 4. BOOTSTRAP
+  > Day 12:
+
+  > Day 13:
+
+
+### 4. JAVASCRIPT
+  > Day 14: Datatypes, Variables, Variable Scope, IF-ELSE, SWITCH-CASE, WHILE LOOP, FOR LOOP, FOR-IN LOOP.    
+
+  > Day 15: ARRAYS
+
+  > Day 16: FUNCTIONS
+
+  > Day 17: FUNCTIONS IN-DEPTH
+
+  > Day 18:
+
+  > Day 19:
+
+  > Day 20:
+
+  > Day 21:
+
+  > Day 22:
+
+  > Day 23:
+
+  > Day 24:
+
+  > Day 25:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
